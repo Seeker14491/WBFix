@@ -1,0 +1,9 @@
+{
+    "FriendlyName": "WBFix",
+    "Author": "Seekr",
+    "AuthorContact": "Discord: Seekr#3274; Steam: Seeker14491",
+    "IPCIdentifier": "WBFix",
+
+    "ModuleFileName": "WBFix.dll",
+    "EntryClassName": "E",
+}
